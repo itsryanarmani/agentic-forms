@@ -1,6 +1,6 @@
 {
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
-  "name": "io.github.pooriaarab/agentic-forms",
+  "name": "io.github.itsryanarmani/agentic-forms",
   "description": "Build forms and collect answers into tables.",
   "version": "0.11.2",
   "repository": {
