@@ -34,7 +34,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "mcpName": "io.github.pooriaarab/agentic-forms",
+  "mcpName": "io.github.itsryanarmani/agentic-forms",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "exports": {
